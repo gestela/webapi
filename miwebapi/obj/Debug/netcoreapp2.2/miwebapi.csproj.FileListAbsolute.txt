@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\webapi\miwebapi\bin\Debug\netcoreapp2.2\miwebapi.deps.json
+C:\Users\Administrator\Desktop\webapi\miwebapi\bin\Debug\netcoreapp2.2\miwebapi.runtimeconfig.json
+C:\Users\Administrator\Desktop\webapi\miwebapi\bin\Debug\netcoreapp2.2\miwebapi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\webapi\miwebapi\bin\Debug\netcoreapp2.2\miwebapi.dll
+C:\Users\Administrator\Desktop\webapi\miwebapi\bin\Debug\netcoreapp2.2\miwebapi.pdb
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.dll
+C:\Users\Administrator\Desktop\webapi\miwebapi\obj\Debug\netcoreapp2.2\miwebapi.pdb
